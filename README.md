@@ -27,9 +27,6 @@ The project demonstrates the complete machine learning workflow, including **dat
 
 This project uses the **House Prices: Advanced Regression Techniques** dataset from Kaggle.
 
-**Target Variable**
-- `SalePrice`
-
 ---
 
 ## Technologies Used
